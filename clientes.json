@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "María González",
+        "rut": "98765432-1",
+        "direccion": "Calle Central 456",
+        "telefono": "+56987654321"
+    },
+    {
+        "nombre": "CGE",
+        "rut": "76.290.682-1",
+        "direccion": "COPIAPO",
+        "telefono": ""
+    }
+]

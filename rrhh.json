@@ -1,0 +1,32 @@
+[
+    {
+        "rut": "15680546-7",
+        "nombre": "Admin Maestro",
+        "correo": "maestro@empresa.com",
+        "telefono": "987654321",
+        "ciudad": "Santiago",
+        "fecha_nacimiento": "1980-01-01",
+        "rol": "Maestro",
+        "fecha_examen": ""
+    },
+    {
+        "rut": "17938471-k",
+        "nombre": "Angel Lobos Perez",
+        "correo": "admin@empresa.com",
+        "telefono": "912345678",
+        "ciudad": "Antofagasta",
+        "fecha_nacimiento": "1990-05-15",
+        "rol": "Administrativo",
+        "fecha_examen": ""
+    },
+    {
+        "rut": "11111111-1",
+        "nombre": "JUanito perez",
+        "correo": "usuario@empresa.com",
+        "telefono": "923456789",
+        "ciudad": "Antofagasta ",
+        "fecha_nacimiento": "1995-08-20",
+        "rol": "Usuario",
+        "fecha_examen": ""
+    }
+]

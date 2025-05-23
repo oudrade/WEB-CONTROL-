@@ -1,0 +1,28 @@
+[
+    {
+        "numero": "2123",
+        "folio": "1231",
+        "fecha": "2025-05-07",
+        "fecha_vencimiento": "2025-05-09",
+        "cliente": "gam",
+        "productos": "Prueba ",
+        "localidad": "Antofagasta ",
+        "subtotal": "20000000",
+        "iva": "3800000.00",
+        "total_pagar": "23800000.00",
+        "comentario": ""
+    },
+    {
+        "cliente": "CGE",
+        "numero": "7190",
+        "folio": "3313",
+        "fecha": "",
+        "fecha_vencimiento": "",
+        "productos": "",
+        "localidad": "",
+        "subtotal": "",
+        "iva": "",
+        "total_pagar": "",
+        "comentario": ""
+    }
+]
